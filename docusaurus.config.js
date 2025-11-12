@@ -31,7 +31,7 @@ const config = {
           lastVersion: 'current',
           versions: {
             'current': {
-              label: 'r0.1.1104.2025',
+              label: 'r0.1.1112.2025',
               path: '',
               banner: 'none',
             },
