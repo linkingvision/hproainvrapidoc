@@ -1,7 +1,6 @@
 ---
-slug: /
-title: User
-sidebar_position: 1
+title: Keepalive
+sidebar_position: 4
 ---
 
 #### Description
@@ -10,10 +9,10 @@ sidebar_position: 1
 
 #### Usage  
 
-| Request parameters | GET               |
-| ------------------ | :---------------- |
-| URL                | /iapi/v1/GetNonce |
-| data               | none              |
+| Request parameters | GET                         |
+| ------------------ | :-------------------------- |
+| URL                | /iapi/v1/Keepalive?session= |
+| data               | none                        |
 
 #### Parameters
 
@@ -30,5 +29,5 @@ sidebar_position: 1
 #### Examples
 
 ```
-http://192.168.100.145:8080/iapi/v1/GetNonce
+http://192.168.100.145:8080/iapi/v1/Keepalive?session=c1782caf-b670-42d8-ba90-2244d0b0ee83
 ```
