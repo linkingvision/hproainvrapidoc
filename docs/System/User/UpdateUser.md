@@ -34,11 +34,17 @@ sidebar_position: 5
 http://192.168.100.145:8080/iapi/v1/UpdateUser?session=c1782caf-b670-42d8-ba90-2244d0b0ee83
 ```
 
-data:
 ```
+data:
 {
  "username": "admin",
  "oldPassword": "Vision@168",
  "newPassword": "Vision@1680"
+}
+
+response:
+{
+    "code": "HPRO_CODE_OK",
+    "msg": "Success"
 }
 ```

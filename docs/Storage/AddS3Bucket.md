@@ -39,8 +39,8 @@ sidebar_position: 13
 http://192.168.100.145:8080iapi/v1/AddS3Bucket?session=c1782caf-b670-42d8-ba90-2244d0b0ee83
 ```
 
-data:
 ```
+data:
 {
   "part": 
 ​    {
@@ -52,5 +52,11 @@ data:
   ​    "strEndpoint": "http://10.168.1.193:9001/"
 ​    },
   "update": false
+}
+
+response:
+{
+    "code": "HPRO_CODE_OK",
+    "msg": "Success"
 }
 ```
