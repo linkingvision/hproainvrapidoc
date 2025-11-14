@@ -36,7 +36,7 @@ sidebar_position: 13
 #### Examples
 
 ```
-http://192.168.100.145:8080iapi/v1/AddS3Bucket?session=c1782caf-b670-42d8-ba90-2244d0b0ee83
+https://192.168.100.161:16445iapi/v1/AddS3Bucket?session=c1782caf-b670-42d8-ba90-2244d0b0ee83
 ```
 
 ```
