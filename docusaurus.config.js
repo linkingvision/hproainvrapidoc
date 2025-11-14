@@ -8,7 +8,7 @@ const config = {
   favicon: 'img/favicon.ico',
 
   url: 'https://linkingvision.com',
-  baseUrl: '/Hproainvrapidoc',
+  baseUrl: '/download/application/hproainvrapidoc',
   organizationName: 'linkingvision',
   projectName: 'hproainvrapidoc',
 
